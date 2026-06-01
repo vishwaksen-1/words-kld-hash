@@ -1,0 +1,9 @@
+group,name,detail,bytes,ngram_n,windows,unique_ngrams,block_size,blocks,unique_blocks,repeated_blocks,repeated_block_kinds,repeat_ratio,entropy_bits,max_entropy_bits,kl_to_uniform,kl_plain_to_method,kl_method_to_plain
+cipher-ladder,Plain,,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0
+cipher-ladder,Identity,,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0
+cipher-ladder,Caesar,shift=3,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,4.167164404477235,1.5495846204215495
+cipher-ladder,Vigenere,key=lemon,54368,,,,,,,,,,4.873151753342828,,2.167366046209227,24.67188882479199,24.253209717658212
+cipher-ladder,Columnar,cols=8,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0
+cipher-ladder,Substitution,sha-keyed,54368,,,,,,,,,,4.269125481757111,,2.5860451533430022,22.981505354635033,20.534756988001362
+cipher-ladder,XOR,key=lemon,54368,,,,,,,,,,4.784786616275852,,2.2286160918269937,24.67188882479199,24.314459763275977
+cipher-ladder,SHA-256,per word,248832,,,,,,,,,,7.9992517581587075,,0.000518641722668349,2.585489095553409,19.57488366917091

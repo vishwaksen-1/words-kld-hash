@@ -1,0 +1,11 @@
+group,name,detail,bytes,ngram_n,windows,unique_ngrams,block_size,blocks,unique_blocks,repeated_blocks,repeated_block_kinds,repeat_ratio,entropy_bits,max_entropy_bits,kl_to_uniform,kl_plain_to_method,kl_method_to_plain,key_type,key_length
+columnar-study,Columnar,cols=2,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,2
+columnar-study,Columnar,cols=3,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,3
+columnar-study,Columnar,cols=4,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,4
+columnar-study,Columnar,cols=5,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,5
+columnar-study,Columnar,cols=8,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,8
+columnar-study,Columnar,cols=12,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,12
+columnar-study,Columnar,cols=16,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,16
+columnar-study,Columnar,cols=24,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,24
+columnar-study,Columnar,cols=32,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,32
+columnar-study,Columnar,cols=48,54368,,,,,,,,,,4.269125481757112,,2.5860451533430027,0.0,0.0,columns,48
